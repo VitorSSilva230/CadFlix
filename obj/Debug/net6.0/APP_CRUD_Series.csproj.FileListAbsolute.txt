@@ -1,0 +1,15 @@
+C:\Projetos\APP_CRUD_Series\bin\Debug\net6.0\APP_CRUD_Series.exe
+C:\Projetos\APP_CRUD_Series\bin\Debug\net6.0\APP_CRUD_Series.deps.json
+C:\Projetos\APP_CRUD_Series\bin\Debug\net6.0\APP_CRUD_Series.runtimeconfig.json
+C:\Projetos\APP_CRUD_Series\bin\Debug\net6.0\APP_CRUD_Series.dll
+C:\Projetos\APP_CRUD_Series\bin\Debug\net6.0\ref\APP_CRUD_Series.dll
+C:\Projetos\APP_CRUD_Series\bin\Debug\net6.0\APP_CRUD_Series.pdb
+C:\Projetos\APP_CRUD_Series\obj\Debug\net6.0\APP_CRUD_Series.csproj.AssemblyReference.cache
+C:\Projetos\APP_CRUD_Series\obj\Debug\net6.0\APP_CRUD_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\APP_CRUD_Series\obj\Debug\net6.0\APP_CRUD_Series.AssemblyInfoInputs.cache
+C:\Projetos\APP_CRUD_Series\obj\Debug\net6.0\APP_CRUD_Series.AssemblyInfo.cs
+C:\Projetos\APP_CRUD_Series\obj\Debug\net6.0\APP_CRUD_Series.csproj.CoreCompileInputs.cache
+C:\Projetos\APP_CRUD_Series\obj\Debug\net6.0\APP_CRUD_Series.dll
+C:\Projetos\APP_CRUD_Series\obj\Debug\net6.0\ref\APP_CRUD_Series.dll
+C:\Projetos\APP_CRUD_Series\obj\Debug\net6.0\APP_CRUD_Series.pdb
+C:\Projetos\APP_CRUD_Series\obj\Debug\net6.0\APP_CRUD_Series.genruntimeconfig.cache
